@@ -1,0 +1,25 @@
+{
+	"scripts": {
+		"dev": "cross-env NODE_ENV=development next",
+		"build:ssg": "cross-env NODE_ENV=production next build && next export -o docs",
+		"build:ssr": "cross-env NODE_ENV=production next build",
+		"start": "cross-env NODE_ENV=production next start"
+	},
+	"devDependencies": {
+		"cross-env": "^7.0.3"
+	},
+	"dependencies": {
+		"@geist-ui/react": "^2.2.0",
+		"@geist-ui/react-icons": "^1.0.1",
+		"next": "^12.0.7",
+		"next-compose-plugins": "^2.2.1",
+		"next-plugin-preact": "^3.0.6",
+		"next-pwa": "^5.4.4",
+		"preact": "10.6.2",
+		"scheduler": "^0.20.2",
+		"preact-render-to-string": "^5.1.19",
+		"react": "npm:@preact/compat@17.0.3",
+		"react-dom": "npm:@preact/compat@17.0.3",
+		"react-ssr-prepass": "npm:preact-ssr-prepass@1.2.0"
+	}
+}
