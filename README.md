@@ -1,8 +1,7 @@
 # Lumite
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/beans42/lumite/master/demo1.png" alt="mobile screenshot" height="200px">
-<img src="https://raw.githubusercontent.com/beans42/lumite/master/demo2.png" alt="desktop screenshot" height="200px">
+<img src="https://raw.githubusercontent.com/beans42/lumite/master/demo1.png" alt="mobile screenshot" height="300px"> <img src="https://raw.githubusercontent.com/beans42/lumite/master/demo2.png" alt="desktop screenshot" height="300px">
 ![mobile screenshot]()
 ![desktop screenshot]()
 
