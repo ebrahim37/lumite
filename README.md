@@ -1,8 +1,10 @@
 # Lumite
 
 ## Screenshots
-![mobile screenshot](https://raw.githubusercontent.com/beans42/lumite/master/demo1.png)
-![desktop screenshot](https://raw.githubusercontent.com/beans42/lumite/master/demo2.png)
+<img src="https://raw.githubusercontent.com/beans42/lumite/master/demo1.png" alt="mobile screenshot" height="200px">
+<img src="https://raw.githubusercontent.com/beans42/lumite/master/demo2.png" alt="desktop screenshot" height="200px">
+![mobile screenshot]()
+![desktop screenshot]()
 
 Demo available [here](https://ebra.dev/lumite/)! You need an existing Stellar account/keypair to use lumite.
 
